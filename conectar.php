@@ -4,7 +4,7 @@
  * Método responsável por favor a conexão no banco de dados
  */
 function conectar(){
-$conexao = mysqli_connect("	s3lkt7lynu0uthj8.cbetxkdyhwsb.us-east-1.rds.amazonaws.com", "inw4t7uz1z4u7d2z", "kn0p05f74mzvil15", "owwpgdlhr9qppan1");
+$conexao = mysqli_connect("cdm1s48crk8itlnr.cbetxkdyhwsb.us-east-1.rds.amazonaws.com", "wnl50l7j1dulqtj3", "l1do70wbs02srspz", "hpf3q1so4loynrqh");
 
 return $conexao;
 }
